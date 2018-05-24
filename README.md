@@ -1,2 +1,2 @@
-# Joint_Conditional_Clothing_Parsing
+# CFCN-Net:Conditional Feature Coupling Network for Multi-Persons Clothing Parsing
 Coming soon!
