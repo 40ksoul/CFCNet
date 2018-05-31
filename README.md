@@ -15,4 +15,3 @@ Root directory contains following files and folders:
 - README.md       - this file
 
 ## Example
-![image](https://github.com/40ksoul/CFCNet/blob/master/result/examples.jpg)
