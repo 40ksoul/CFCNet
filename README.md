@@ -6,6 +6,7 @@ CFCNet is a novel clothing parsing network for real-life multi-person photos. Th
 
 ## Requirement
 Caffe https://github.com/torrvision/crfasrnn
+
 CRF-RNN https://github.com/torrvision/crfasrnn
 
 ## Files Description
