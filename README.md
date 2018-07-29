@@ -2,7 +2,7 @@
 Jiaming Guo, Zhuo Su, Xianghui Luo, Gengwei Zhang, and Xiwen Liang
 
 ## Introduction
-CFCNet is a novel clothing parsing network for real-life multi-person photos. This project includes the test implementation of CFCNet, multi-person dataset and the parsing examples.
+CFCNet is a novel clothing parsing network for real-life multi-person photos. This project includes the multi-person dataset and the parsing examples.
 
 ## Requirement
 Caffe http://caffe.berkeleyvision.org/
