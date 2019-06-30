@@ -10,21 +10,6 @@ Root directory contains following files and folders:
 - result/         - parsing example of CFCNet
 - README.md       - this file
 
-- code
-- data
-	- experiment
-		- models
-		- worksite
-	- round1\_train\_input
-	- round1\_train\_label
-	- round1\_val\_input
-	- round1\_val\_label
-	- round1\_test\_input
-- submit
-	- img
-	- y4m
-- README.md
-
 ## Examples
 (Image,CFCN,Ground truth)
 
